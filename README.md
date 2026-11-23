@@ -133,15 +133,108 @@ Supplier API integration was planned as a subsequent implementation phase and wi
 
 This repository includes selected screenshots documenting:
 
-- Desktop storefront
-- Store homepage and content sections
-- Product and collection pages
-- Product detail pages
-- Shopping cart and checkout interface
-- Mobile storefront views
-- Shopify product administration
-- Product configuration and variants
-- SKU management
-- Collections administration
-- Navigation menu configuration
-- Website pages administration
+### 1. Desktop Storefront
+
+#### Homepage
+
+![Homepage](screenshots/01-storefront-desktop/01_home%20page_1.png)
+
+![Homepage Collections](screenshots/01-storefront-desktop/01_home%20page%20collection_2.png)
+
+![Homepage Section 3](screenshots/01-storefront-desktop/01_home%20page_3.png)
+
+![Homepage Section 4](screenshots/01-storefront-desktop/01_home%20page_4.png)
+
+#### About Us
+
+![About Us](screenshots/01-storefront-desktop/02_about%20us_1.png)
+
+![About Us Section 2](screenshots/01-storefront-desktop/02_about%20us_2.png)
+
+#### Contact Us
+
+![Contact Us](screenshots/01-storefront-desktop/03_contact%20us_1.png)
+
+![Contact Us Section 2](screenshots/01-storefront-desktop/03_contact%20us_2.png)
+
+#### Product and Service Categories
+
+![Corporate Clothing and Workwear](screenshots/01-storefront-desktop/04_corporate%20clothing%20%26%20workwear_service%20page_1.png)
+
+![Corporate Gifts](screenshots/01-storefront-desktop/04_corporate%20gifts_service%20page_2.png)
+
+![Displays and Signage](screenshots/01-storefront-desktop/04_displays%20%26%20signage_service%20page_3.png)
+
+![PPE and Safety](screenshots/01-storefront-desktop/04_ppe%20%26%20safety_service%20page_4.png)
+
+![Promotional Products](screenshots/01-storefront-desktop/04_promotional%20products_service%20page_5.png)
+
+#### Product Details
+
+![Product Detail Page](screenshots/01-storefront-desktop/05_product%20detail%20page_1.png)
+
+![Product Detail Page 2](screenshots/01-storefront-desktop/05_product%20detail%20page_2.png)
+
+#### Shopping Cart and Checkout
+
+![Shopping Cart](screenshots/01-storefront-desktop/06_shopping%20cart_1.png)
+
+![Shopping Cart Section 2](screenshots/01-storefront-desktop/06_shopping%20cart_2.png)
+
+![Checkout](screenshots/01-storefront-desktop/07_checkout.png)
+
+
+### 2. Mobile Storefront
+
+![Mobile Homepage](screenshots/02-storefront-mobile/08_mobile%20view_home%20page_1.png)
+
+![Mobile Homepage Collections](screenshots/02-storefront-mobile/08_mobile%20view_home%20page_collections_2.png)
+
+![Mobile Homepage Section 3](screenshots/02-storefront-mobile/08_mobile%20view_home%20page_3.png)
+
+![Mobile Navigation Menu](screenshots/02-storefront-mobile/08_mobile%20view_menu.png)
+
+![Mobile Products](screenshots/02-storefront-mobile/08_mobile%20view_products.png)
+
+![Mobile Cart](screenshots/02-storefront-mobile/08_mobile%20view_cart.png)
+
+![Mobile Product Page](screenshots/02-storefront-mobile/08_mobile%20view_product%20page%20content.png)
+
+![Mobile Products Section 2](screenshots/02-storefront-mobile/08_mobile%20view_products_2.png)
+
+
+### 3. Shopify Backend and Product Administration
+
+#### Product Dashboard
+
+![Shopify Product Dashboard](screenshots/03-shopify-admin/09_backend_products%20dashboard.png)
+
+#### Product Configuration
+
+![Product Configuration 1](screenshots/03-shopify-admin/10_backend_products%20configuration_1.png)
+
+![Product Configuration 2](screenshots/03-shopify-admin/10_backend_products%20configuration_2.png)
+
+![Product Configuration 3](screenshots/03-shopify-admin/10_backend_products%20configuration_3.png)
+
+![Product Configuration 4](screenshots/03-shopify-admin/10_backend_products%20configuration_4.png)
+
+![Product Configuration 5](screenshots/03-shopify-admin/10_backend_products%20configuration_5.png)
+
+#### Variants and SKUs
+
+![Product Variants and SKUs](screenshots/03-shopify-admin/11_variants%20and%20SKUs.png)
+
+#### Collections
+
+![Shopify Collections 1](screenshots/03-shopify-admin/12_collections_1.png)
+
+![Shopify Collections 2](screenshots/03-shopify-admin/12_collections_2.png)
+
+![Shopify Collections 3](screenshots/03-shopify-admin/12_collections_3.png)
+
+#### Navigation and Pages
+
+![Shopify Navigation Menu](screenshots/03-shopify-admin/13_navigation%20menu.png)
+
+![Shopify Pages Administration](screenshots/03-shopify-admin/14_backend%20pages.png)
